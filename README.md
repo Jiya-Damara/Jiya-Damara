@@ -82,23 +82,6 @@ I love building projects that tackle real-world challenges and enhance user expe
 
 </div>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center"><h2>🏆 Top Contributed Repos</h2></td>
-    <td align="center"><h2>👀 Profile Views </h2></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=radical&combine_all_yearly_contributions=true"
-           width="90%"/>
-    </td>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff69b4&style=for-the-badge"/>
-      <br> <h4>(Tracks All, Not Unique)</h4>  
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
@@ -107,15 +90,12 @@ I love building projects that tackle real-world challenges and enhance user expe
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jiya-damara)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiya1693.be23@chitkara.edu.in)
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff69b4&style=for-the-badge)
-
 </div>
