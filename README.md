@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Jiya!
 
-<!--
-**Jiya-Damara/Jiya-Damara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate 2nd-year Computer Science student with experience in front-end development, software engineering, and deep learning. Excited about building innovative solutions and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+- 🎓 **CSE Student (2nd Year)**  
+- 🏆 **WWDC Swift Student Challenge Winner 2025 (Top 350)**  
+- 💡 **Front-end Developer | AI Enthusiast | IoT Innovator**  
+- 📚 Currently exploring **Deep Learning & System Design**  
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Front-End Development
+- HTML, CSS, JavaScript (ES6+)
+- React.js, Bootstrap, Tailwind CSS
+- UI/UX principles & responsive design
+
+### ⚙️ Back-End & Database
+- Node.js, Express.js
+- Firebase, MongoDB, SQL
+
+### 🔍 AI & Machine Learning
+- Python (NumPy, Pandas, TensorFlow, PyTorch)
+- Deep Learning Model Development
+
+### 💻 Programming & Tools
+- C, C++, Python
+- Git, GitHub, Linux, VirtualBox
+- Xcode (Swift for iOS Prototyping)
+
+---
+
+## 🔗 Let's Connect!
+- 📄 [Resume](#)  
+- 🔗 [LinkedIn](#)  
+- 📧 [Email](#)  
+
+---
+
+💡 *Always open to collaboration and learning new things!*
