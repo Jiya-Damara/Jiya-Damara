@@ -25,7 +25,7 @@ I love building projects that tackle real-world challenges and enhance user expe
 
 ## 🎯 Current Focus
 
-- 🔭 **Building:** Web applications using React and Next.js
+- 🔭 **Building:** Solutions to real-world problems
 - 🌱 **Learning:** Data Structures & Algorithms and MERN Stack
 - 🚀 **Exploring:** iOS development with Swift and SwiftUI
 - 🎨 **Creating:** Intuitive user interfaces with modern design principles
@@ -51,7 +51,15 @@ I love building projects that tackle real-world challenges and enhance user expe
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Database
+### Backend Development
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NODEMON](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+
+### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -74,15 +82,25 @@ I love building projects that tackle real-world challenges and enhance user expe
 
 </div>
 
-## 📊 GitHub Statistics
+<table width="100%" align="center">
+  <tr>
+    <td align="center"><h2>🏆 Top Contributed Repos</h2></td>
+    <td align="center"><h2>👀 Profile Views </h2></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=radical&combine_all_yearly_contributions=true"
+           width="90%"/>
+    </td>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff69b4&style=for-the-badge"/>
+      <br> <h4>(Tracks All, Not Unique)</h4>  
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 ## 🤝 Connect With Me
@@ -90,13 +108,8 @@ I love building projects that tackle real-world challenges and enhance user expe
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -106,5 +119,3 @@ I love building projects that tackle real-world challenges and enhance user expe
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff69b4&style=for-the-badge)
 
 </div>
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
